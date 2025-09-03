@@ -1,0 +1,16 @@
+{
+  "bot_token": "MTQwOTI1MTg4MDQ0MTM1MjMwNA.GlRrjR.T-gTjlcm--d_TEieUwQpsSvoGcjQvPvsSgrSF0",
+  "client_id": "1409251880441352304",
+  "guild_id": "1408855185773822126",
+
+  "blacklist_role": "1409680339609325628",
+  "premium_role": "1408855185773822128", 
+
+  "cooldown_bypass_free_role": "1409461899539779667",
+  "cooldown_bypass_premium_role": "1409461977448714311",
+
+  "cooldown_free": 60,
+  "cooldown_premium": 600,
+
+  "admin_whitelist": ["853284339578961960"]
+}
